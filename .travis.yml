@@ -31,6 +31,6 @@ before_install:
   # Java, C, C++, C#, Objective-C, D, Pawn, Vala
   - brew install uncrustify
   # PHP
-  - wget http://get.sensiolabs.org/php-cs-fixer.phar -O php-cs-fixer
+  - wget http://get.sensiolabs.org/php-cs-fixer.phar -O php-cs-fixer 
   # CoffeeScript
   - npm install coffee-formatter
