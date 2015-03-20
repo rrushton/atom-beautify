@@ -2,6 +2,7 @@
 
 class Date
 {
+
 const FORMAT_FULL = 'full';
 const FORMAT_LONG = 'long';
 const FORMAT_MEDIUM = 'medium';
